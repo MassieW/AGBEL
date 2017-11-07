@@ -1,0 +1,22 @@
+</script>
+  </head>
+  <body>		
+  <div class="navbar navbar-inverse navbar-static-top">			
+  <div class="container">				
+  <span class="navbar-brand" style="color:#FFF;"><strong>AGBEL</strong> -  - configuration tool</span>			</div>    </div>
+  
+<!-- Doctype HTML5 -->
+<!doctype html>
+
+<html lang="en">
+
+<link rel="alternate" href="https://es.example.com/" hreflang="es">
+
+<!-- Meta Description -->
+<meta name="description" content="Description of the page less than 150 characters">
+
+<div>
+<!-- Document Title -->
+<title>Page Title less than 55 characters</title>
+
+</div> 
